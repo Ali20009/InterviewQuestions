@@ -17,7 +17,6 @@ class Solution:
             nums[:] = list(reversed(nums))
         return nums
         
-[3,4,1,2]
 a = Solution()
 print(a.nextPermutation([1,5,1]))
 
